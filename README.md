@@ -125,7 +125,7 @@ checkpoints/2player/
 
 ## 🤖 Trained Models
 
-Trained checkpoints of the model are available in the `checkpoints` folder.
+You can download the pretrained model [here](https://huggingface.co/EPFL-ECEO/2Player_pretrained). Place them under `checkpoints/2player` and `checkpoints/player2`. 
 
 Qualitative examples using these pretrained models are presented in `examples.ipynb`.
 
