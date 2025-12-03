@@ -133,13 +133,20 @@ Qualitative examples using these pretrained models are presented in `examples.ip
 
 If you use 2Player or if you find this work helpful, please cite:
 
-```@article{TODO,
-  title={Your Paper Title Here},
-  author={First Author and Second Author and Third Author},
-  journal={Conference/Journal Name},
-  year={2024},
-  url={https://your-domain.com/your-project-page}
+```
+@article{bechaz_2player_2026,
+	title = {{2Player}: {A} general framework for self-supervised change detection via cooperative learning},
+	volume = {232},
+	issn = {0924-2716},
+	url = {https://www.sciencedirect.com/science/article/pii/S0924271625004630},
+	doi = {https://doi.org/10.1016/j.isprsjprs.2025.11.024},
+	journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+	author = {Béchaz, Manon and Dalsasso, Emanuele and Tomoiagă, Ciprian and Detyniecki, Marcin and Tuia, Devis},
+	year = {2026},
+	keywords = {Change detection, Cooperative learning, Self-supervised learning, Very high-resolution imagery},
+	pages = {34--47},
 }
+
 ```
 
 ```
